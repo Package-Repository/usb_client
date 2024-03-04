@@ -1,0 +1,10 @@
+build/
+*.uf2
+*.bin
+*.elf
+*.asc
+*.dblite
+*.dis
+.vscode
+*.pyc
+__pycache__
