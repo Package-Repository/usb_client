@@ -1,0 +1,4 @@
+[submodule "usb_protocol"]
+	path = usb_protocol
+	url = https://github.com/Package-Repository/usb_protocol
+	branch = main
