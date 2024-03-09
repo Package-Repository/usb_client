@@ -1,7 +1,7 @@
 #ifndef USB_PROTOCOL_CLIENT
 #define USB_PROTOCOL_CLIENT
 
-#include <mechatronics_usb_protocol/usb_protocol.h>
+#include <mechatronics_usb_protocol/mech_usb_protocol.h>
 
 /* All Available Public APIs for Embedded System */
 
